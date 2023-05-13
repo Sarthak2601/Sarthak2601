@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🌇 Indian software enthusiast currently based in the UK, with a passion for working on products that drive strong value to its users.
 
-💻 As an SDE Intern at Amazon UK, I'm currently working on a Full Stack solution that involves using Typescript, JavaScript, NodeJS, ReactJS, and HTML/CSS along with various AWS tools like Lambda, DynamoDb, S3, CloudFormation, SES, and CloudWatch to optimise data-update mechanisms at Amazon's IMDb.
+💻 As an SDE Intern at Amazon, I'm currently working on a Full Stack solution that involves using Typescript, JavaScript, NodeJS, ReactJS, and HTML/CSS along with various AWS tools like Lambda, DynamoDb, S3, CloudFormation, SES, and CloudWatch to optimise data-update mechanisms at Amazon's IMDb.
 
 📚 In the past, I've interned at tech startups like CRED and Atom EI where I honed my skills in developing and testing software features for their flagship products. My focus was primarily on mobile technology, utilizing my expertise in Android Development using Kotlin and Java, as well as my knowledge of Kotlin Multiplatform Mobile (KMM). 
 
